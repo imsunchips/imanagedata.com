@@ -18,8 +18,8 @@ footermenu:
 - title: Home
   url: ""
 
-- title: Privacy Policy
-  url: "privacy-policy/"
+#- title: Privacy Policy
+#  url: "privacy-policy/"
 
 - title: Contact
   url: "contact/"
