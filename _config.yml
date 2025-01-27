@@ -4,7 +4,7 @@ timezone: UTC
 baseurl: "/imanagedata.com"
 permalink: "/:title/"
 logo: 'assets/images/logo-imanagedata.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicon-imanagedata.png'
 author: Sanchit
 paginate: 30
 #disqus: 'demowebsite'
@@ -27,11 +27,11 @@ authors:
   sal:
     name: Sanchit
     display_name: Sanchit
-    avatar: 'assets/images/sal.png'
+    avatar: 'assets/images/avatar-icon.jpg'
     #email: wowthemesnet@gmail.com
     #web: https://www.wowthemes.net/category/jekyll-themes/
     #twitter: https://twitter.com/wowthemesnet
-    description: "Seeking solutions for your data"
+    description: "seeking solutions to elevatate data management and analytics capabilities."
   #john:
     #name: John
     #display_name: John
