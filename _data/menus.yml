@@ -7,8 +7,12 @@ topmenu:
 - title: About
   url: "about/"
 
+- title: LinkedIn
+  url: "https://www.linkedin.com/company/imanagedata"
+
 - title: Contact
   url: "contact/"
+
 
 
 
