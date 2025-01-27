@@ -9,6 +9,7 @@ topmenu:
 
 - title: LinkedIn
   url: "https://www.linkedin.com/company/imanagedata"
+  target: "_blank"
 
 - title: Contact
   url: "contact/"
