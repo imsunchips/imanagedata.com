@@ -1,9 +1,9 @@
-title: "I Manage Data"
+title: "iManageData"
 email: 
 timezone: UTC
 baseurl: "http://imanagedata.com"
 permalink: "/:title/"
-logo: 'assets/images/logo-imanagedata-mini.png'
+#logo: 'assets/images/logo-imanagedata-mini.png'
 favicon: 'assets/images/favicon-imanagedata.png'
 author: Sanchit
 paginate: 30
@@ -24,7 +24,7 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  sal:
+  sanchit:
     name: Sanchit
     display_name: Sanchit
     avatar: 'assets/images/avatar-icon.jpg'
