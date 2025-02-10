@@ -3,7 +3,7 @@ email:
 timezone: UTC
 baseurl: "https://imanagedata.com"
 permalink: "/:title/"
-#logo: 'assets/images/imanagedata_logo_white_background.svg'
+logo: 'assets/images/favicon-imanagedata.png'
 favicon: 'assets/images/favicon-imanagedata.png'
 author: Sanchit
 paginate: 30
