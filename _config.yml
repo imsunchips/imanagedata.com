@@ -1,7 +1,7 @@
 title: "iManageData"
 email: 
 timezone: UTC
-baseurl: "https://imanagedata.com"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/favicon-imanagedata-small.png'
 favicon: 'assets/images/favicon-imanagedata.png'
