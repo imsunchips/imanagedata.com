@@ -2,16 +2,17 @@
 layout: post
 title:  "Create a fabric workspace"
 author: sanchit
-categories: [ Fabric, tutorial, microsoft, learn, workspace]
+categories: [Fabric, tutorial, microsoft, learn, workspace]
 #image: assets/images/2.jpg
 ---
+Let's start with creating a workspace first, where things happens !
 
 <video width="640" height="360" controls>
   <source src="https://github.com/imsunchips/tutorial-videos/raw/refs/heads/main/00-fabric-how-to-create-workspace.mp4" type="video/mp4">
 </video>
 
 
-Step-by-Step
+### Step-by-Step
 
 1. **Login:** Access your Fabric experience using this link: [https://app.fabric.microsoft.com/home?experience=fabric](https://app.fabric.microsoft.com/home?experience=fabric)
 
