@@ -7,7 +7,7 @@ categories: [ Fabric, tutorial, microsoft, learn, workspace]
 ---
 
 <video width="640" height="360" controls>
-  <source src="assets/videos/00-fabric-how-to-create-workspace.mp4" type="video/mp4">
+  <source src="https://github.com/imsunchips/tutorial-videos/raw/refs/heads/main/00-fabric-how-to-create-workspace.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -18,11 +18,11 @@ Step-by-Step
 
 2. **Navigate to Workspaces:** In the left menu bar, select the Workspaces icon.
 
-    <img src="assets/screenshots/01-00.png" width="1000">
+    <img src="assets/screenshots/01-00.png" width="1000" height="500">
 
 3. **Create New Workspace:** Click the "New Workspace" button, usually located at the bottom of the workspace list.
 
-    <img src="assets/screenshots/01-01.png" width="1000">
+    <img src="assets/screenshots/01-01.png" width="1000" height="500">
 
 4. **Name Your Workspace:** Give your workspace a descriptive name.  Choose a name that isn't already in use.
 
