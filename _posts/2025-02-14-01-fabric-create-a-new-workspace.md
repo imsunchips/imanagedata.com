@@ -24,5 +24,7 @@ Let's start with creating a workspace first, where things happens !
 
     <img src="https://github.com/imsunchips/imanagedata.com/blob/develop/assets/screenshots/01-01.png?raw=true" width="1000" height="500">
 
-4. **Name Your Workspace:** Give your workspace a descriptive name.  Choose a name that isn't already in use.
+4. **Name Your Workspace:** Give your workspace a descriptive name.  Choose a name that isn't already in use and then click Apply.
 
+
+  <img src="https://github.com/imsunchips/imanagedata.com/blob/develop/assets/screenshots/01-05.png?raw=true" width="1000" height="500">
