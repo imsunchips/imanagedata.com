@@ -6,8 +6,6 @@ categories: [ Fabric, tutorial, microsoft, learn, workspace]
 #image: assets/images/2.jpg
 ---
 
-# Walk through video
-
 <video width="640" height="360" controls>
   <source src="assets/videos/00-fabric-how-to-create-workspace.mp4" type="video/mp4">
   Your browser does not support the video tag.
