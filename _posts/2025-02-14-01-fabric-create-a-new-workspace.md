@@ -18,11 +18,11 @@ Step-by-Step
 
 2. **Navigate to Workspaces:** In the left menu bar, select the Workspaces icon.
 
-    <img src="/assets/screenshots/01-00.png" width="1000" height="500">
+    <img src="https://github.com/imsunchips/imanagedata.com/blob/develop/assets/screenshots/01-00.png" width="1000" height="500">
 
 3. **Create New Workspace:** Click the "New Workspace" button, usually located at the bottom of the workspace list.
 
-    <img src="/assets/screenshots/01-01.png" width="1000" height="500">
+    <img src="https://github.com/imsunchips/imanagedata.com/blob/develop/assets/screenshots/01-01.png" width="1000" height="500">
 
 4. **Name Your Workspace:** Give your workspace a descriptive name.  Choose a name that isn't already in use.
 
