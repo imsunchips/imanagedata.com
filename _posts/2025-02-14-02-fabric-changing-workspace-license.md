@@ -9,7 +9,7 @@ categories: [Fabric, tutorial, microsoft, learn, workspace]
 This video demonstrates how to change the license for your Fabric workspace.The workspace license determines the features and capabilities available to its users.
 
 <video width="640" height="360" controls>
-  <source src="https://github.com/imsunchips/tutorial-videos/blob/main/01-fabric-how-to-change-workspace-license.mp4" type="video/mp4">
+  <source src="https://github.com/imsunchips/tutorial-videos/raw/refs/heads/main/01-fabric-how-to-change-workspace-license.mp4" type="video/mp4">
 </video>
 
 ### Step-by-Step Instructions
