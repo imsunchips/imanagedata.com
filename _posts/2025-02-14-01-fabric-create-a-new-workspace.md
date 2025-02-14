@@ -12,17 +12,17 @@ categories: [ Fabric, tutorial, microsoft, learn, workspace]
 </video>
 
 
-# Creating a New Fabric Workspace: Step-by-Step
+Step-by-Step
 
 1. **Login:** Access your Fabric experience using this link: [https://app.fabric.microsoft.com/home?experience=fabric](https://app.fabric.microsoft.com/home?experience=fabric)
 
 2. **Navigate to Workspaces:** In the left menu bar, select the Workspaces icon.
 
-    <img src="assets/screenshots/01-00.png" alt="Alt Text" width="500">
+    <img src="assets/screenshots/01-00.png" width="1000">
 
 3. **Create New Workspace:** Click the "New Workspace" button, usually located at the bottom of the workspace list.
 
-    <img src="assets/screenshots/01-01.png" alt="Alt Text" width="500">
+    <img src="assets/screenshots/01-01.png" width="1000">
 
 4. **Name Your Workspace:** Give your workspace a descriptive name.  Choose a name that isn't already in use.
 
