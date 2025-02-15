@@ -7,7 +7,7 @@ categories: [Fabric, tutorial, microsoft, learn, workspace]
 ---
 Let's start with creating a workspace first, where things happens !
 
-<video width="640" height="360" controls>
+<video width="640" height="360" controls controlsList="nodownload">
   <source src="https://github.com/imsunchips/tutorial-videos/raw/refs/heads/main/00-fabric-how-to-create-workspace.mp4" type="video/mp4">
 </video>
 
