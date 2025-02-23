@@ -15,7 +15,7 @@ This guide outlines the steps to enable Microsoft Fabric for your entire organiz
 ## Step-by-Step Instructions
 
 1.  **Access the Admin Portal:**
-    * Click the **gear icon (Settings)** in the top right corner of the Power BI interface.
+    * Click the **gear icon (Settings)** in the top right corner of the Fabric interface.
     * Select **Admin portal** from the "Governance and Insights" section.
 
     <img src="https://github.com/imsunchips/imanagedata.com/blob/develop/assets/screenshots/01-09.png?raw=true" width="1000" height="500">
