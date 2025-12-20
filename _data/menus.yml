@@ -24,3 +24,6 @@ footermenu:
 
 - title: Contact
   url: "contact/"
+
+- title: Privacy
+  url: "privacy/"
