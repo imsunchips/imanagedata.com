@@ -21,14 +21,14 @@ At <b>iManageData</b>, we believe that data shouldn't just be stored—it should
 
 We aren't just consultants who hand over a slide deck and leave. We are your <b>end-to-end partners</b>. We walk with you through the entire journey—from defining your initial data strategy to the technical implementation and the long-term support that follows.
 
-<b>What We Believe </b>
+<b>What We Believe </b> </br>
 Many businesses are sitting on a goldmine of information trapped in "messy" formats—emails, old documents, and disconnected databases. We specialize in unlocking that value. By bridging the gap between high-level business goals and deep data engineering, we ensure your organization is not just "using data," but leading with it.
 
-<b>The iManageData Approach</b>
+<b>The iManageData Approach</b> </br>
 <b>Strategy First:</b> We start by understanding your "Why." We identify which data will actually move the needle for your business goals.
 
 <b>Seamless Implementation:</b> We do the heavy lifting. We build the pipelines and structures that turn your raw information into an organized, AI-ready engine.
 
 <b>Beyond the Launch:</b> We stay by your side to ensure your systems remain secure, accurate, and scalable as your business evolves.
 
-At iManageData, we don't just manage your data—we make it work for you.
+<b><i> At iManageData, we don't just manage your data—we make it work for you.</i></b>
