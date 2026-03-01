@@ -2,6 +2,9 @@
 layout: page
 title: About
 permalink: "/about/"
+full_width: true
+hide_title: true
+intro: "Unified Intelligence for Canadian Dealerships"
 #image: assets/images/screenshot.png
 ---
 
@@ -14,21 +17,55 @@ permalink: "/about/"
 
   gtag('config', 'G-26RKHSWC4F');
 </script>
-<b>Your Partner from Strategy to Implementation</b>
-
-At <b>iManageData</b>, we believe that data shouldn't just be stored—it should be your most powerful strategic advantage. In a world where AI is rapidly changing how we work, the difference between a successful project and a costly mistake always comes down to one thing: The quality of your data.
 
 
-We aren't just consultants who hand over a slide deck and leave. We are your <b>end-to-end partners</b>. We walk with you through the entire journey—from defining your initial data strategy to the technical implementation and the long-term support that follows.
+<div class="container-fluid py-5">
 
-<b>What We Believe </b> <br>
-Many businesses are sitting on a goldmine of information trapped in "messy" formats—emails, old documents, and disconnected databases. We specialize in unlocking that value. By bridging the gap between high-level business goals and deep data engineering, we ensure your organization is not just "using data," but leading with it.
+  <p> At <b>iManageData</b>, we believe a dealership’s most valuable asset is its data—but only if that data is accessible and secure. In an industry moving toward automation, the difference between hitting a target and missing it comes down to <b>Executive Clarity</b>. </p>
 
-<b>The iManageData Approach</b> <br>
-<b>Strategy First:</b> We start by understanding your "Why." We identify which data will actually move the needle for your business goals.
 
-<b>Seamless Implementation:</b> We do the heavy lifting. We build the pipelines and structures that turn your raw information into an organized, AI-ready engine.
+  <p>We provide, a private intelligence engine designed specifically for the automotive tier. We bridge the gap between your fragmented operations—Sales, Service, and Inventory—turning raw information into the high-quality insights you need to lead your store with confidence.
+  </p>
 
-<b>Beyond the Launch:</b> We stay by your side to ensure your systems remain secure, accurate, and scalable as your business evolves.
+<div class="row my-5">
+  <div class="col-md-4 mb-4">
+    <div class="card h-100 card-hero">
+      <div class="card-body text-center">
+        <i class="fas fa-shield-alt fa-3x mb-3"></i>
+        <h3 class="card-title">Private Data Vault</h3>
+        <p class="card-text">Your data lives on-site in a single secure repository.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4 mb-4">
+    <div class="card h-100 card-hero">
+      <div class="card-body text-center">
+        <i class="fas fa-map-marker-alt fa-3x mb-3"></i>
+        <h3 class="card-title">Proudly Canadian</h3>
+        <p class="card-text">Zero‑cloud solution keeps data inside your building 🇨🇦.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4 mb-4">
+    <div class="card h-100 card-hero">
+        <div class="card-body text-center">
+          <i class="fas fa-bullseye fa-3x mb-3"></i>
+          <h3 class="card-title">Focused Insights</h3>
+          <p class="card-text">One‑sentence answers for GMs and real‑time operational protection.</p>
+        </div>
+      </div>
+    </div>
+  </div>
 
-<b><i> At iManageData, we don't just manage your data—we make it work for you.</i></b>
+
+<div class="feature-card mb-4">
+  <h2>Our Focused Approach</h2>
+  <ul>
+    <li><strong>Unified Reporting:</strong> We connect the dots between your Sales floor and Service drive to show the True Net on every deal.</li>
+    <li><strong>Executive Summaries:</strong> We specialize in the "1-Sentence Answer." We translate complex data into clear, actionable directives for the GM.</li>
+    <li><strong>Operational Protection:</strong> From identifying reconditioning bottlenecks to tracking aging inventory, we give you the tools to protect your margins in real-time.</li>
+  </ul>
+</div>
+
+<b><i> Stop managing data. Start leading with it.</i></b>
+</div>

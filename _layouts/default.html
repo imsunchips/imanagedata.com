@@ -95,8 +95,8 @@ gtag('config', '{{site.ganalytics}}');
     
 <!-- Container
 ================================================== -->    
-<main class="container">   
-      {{ content }}  
+<main class="{% if page.full_width %}container-fluid{% else %}container{% endif %}">
+      {{ content }}
 </main>
 
 <!-- Footer

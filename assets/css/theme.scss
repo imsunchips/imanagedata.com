@@ -620,3 +620,16 @@ span.navigation:before {
     transition: all .3s;
     opacity:.8;
 }
+
+/* three-column feature row background matching hero color */
+.feature-bg {
+    background: #fdd93d;
+}
+
+/* individual card background matching hero */
+.card-hero {
+    background: #fdd93d;
+}
+.card-hero .card-body {
+    color: #000;
+}
