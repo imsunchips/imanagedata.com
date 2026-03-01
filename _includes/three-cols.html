@@ -1,0 +1,11 @@
+{%- comment -%} three-cols.html – renders a row of three feature columns {%- endcomment -%}
+
+<div class="row my-5">
+  {% for col in site.data.columns %}
+    <div class="col-sm-6 col-md-4 text-center mb-4">
+      <i class="{{ col.icon }} fa-2x mb-2"></i>
+      <h3>{{ col.title }}</h3>
+      <p>{{ col.text }}</p>
+    </div>
+  {% endfor %}
+</div>
